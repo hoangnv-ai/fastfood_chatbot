@@ -1,0 +1,413 @@
+{
+    "Đơn vị tính": "1.000 VND",
+    "Món": [
+        {
+            "tên": "Cà phê Phin Sữa Đá",
+            "loại": "Cà phê phin",
+            "size": "nhỏ",
+            "giá": 29
+        },
+        {
+            "tên": "Cà phê Phin Sữa Đá",
+            "loại": "Cà phê phin",
+            "size": "vừa",
+            "giá": 39
+        },
+        {
+            "tên": "Cà phê Phin Sữa Đá",
+            "loại": "Cà phê phin",
+            "size": "lớn",
+            "giá": 45
+        },
+        {
+            "tên": "Phin Đen Đá",
+            "loại": "Cà phê phin",
+            "size": "nhỏ",
+            "giá": 29
+        },
+        {
+            "tên": "Phin Đen Đá",
+            "loại": "Cà phê phin",
+            "size": "vừa",
+            "giá": 39
+        },
+        {
+            "tên": "Phin Đen Đá",
+            "loại": "Cà phê phin",
+            "size": "lớn",
+            "giá": 45
+        },
+        {
+            "tên": "Bạc Xỉu",
+            "loại": "Cà phê phin",
+            "size": "nhỏ",
+            "giá": 29
+        },
+        {
+            "tên": "Bạc Xỉu",
+            "loại": "Cà phê phin",
+            "size": "vừa",
+            "giá": 39
+        },
+        {
+            "tên": "Bạc Xỉu",
+            "loại": "Cà phê phin",
+            "size": "lớn",
+            "giá": 45
+        },
+        {
+            "tên": "PhinDi Hạnh Nhân",
+            "loại": "phindi",
+            "size": "nhỏ",
+            "giá": 45
+        },
+        {
+            "tên": "PhinDi Hạnh Nhân",
+            "loại": "phindi",
+            "size": "vừa",
+            "giá": 49
+        },
+        {
+            "tên": "PhinDi Hạnh Nhân",
+            "loại": "phindi",
+            "size": "lớn",
+            "giá": 55
+        },
+        {
+            "tên": "PhinDi Kem Sữa",
+            "loại": "phindi",
+            "size": "nhỏ",
+            "giá": 45
+        },
+        {
+            "tên": "PhinDi Kem Sữa",
+            "loại": "phindi",
+            "size": "vừa",
+            "giá": 49
+        },
+        {
+            "tên": "PhinDi Kem Sữa",
+            "loại": "phindi",
+            "size": "lớn",
+            "giá": 55
+        },
+        {
+            "tên": "PhinDi Choco",
+            "loại": "phindi",
+            "size": "nhỏ",
+            "giá": 45
+        },
+        {
+            "tên": "PhinDi Choco",
+            "loại": "phindi",
+            "size": "vừa",
+            "giá": 49
+        },
+        {
+            "tên": "PhinDi Choco",
+            "loại": "phindi",
+            "size": "lớn",
+            "giá": 55
+        },
+        {
+            "tên": "Trà Sen Vàng",
+            "loại": "Trà",
+            "size": "nhỏ",
+            "giá": 45
+        },
+        {
+            "tên": "Trà Sen Vàng",
+            "loại": "Trà",
+            "size": "vừa",
+            "giá": 55
+        },
+        {
+            "tên": "Trà Sen Vàng",
+            "loại": "Trà",
+            "size": "lớn",
+            "giá": 65
+        },
+        {
+            "tên": "Trà Thạch Đào",
+            "loại": "Trà",
+            "size": "nhỏ",
+            "giá": 45
+        },
+        {
+            "tên": "Trà Thạch Đào",
+            "loại": "Trà",
+            "size": "vừa",
+            "giá": 55
+        },
+        {
+            "tên": "Trà Thạch Đào",
+            "loại": "Trà",
+            "size": "lớn",
+            "giá": 65
+        },
+        {
+            "tên": "Trà Thanh Đào",
+            "loại": "Trà",
+            "size": "nhỏ",
+            "giá": 45
+        },
+        {
+            "tên": "Trà Thanh Đào",
+            "loại": "Trà",
+            "size": "vừa",
+            "giá": 55
+        },
+        {
+            "tên": "Trà Thanh Đào",
+            "loại": "Trà",
+            "size": "lớn",
+            "giá": 65
+        },
+        {
+            "tên": "Trà Thạch Vải",
+            "loại": "Trà",
+            "size": "nhỏ",
+            "giá": 45
+        },
+        {
+            "tên": "Trà Thạch Vải",
+            "loại": "Trà",
+            "size": "vừa",
+            "giá": 55
+        },
+        {
+            "tên": "Trà Thạch Vải",
+            "loại": "Trà",
+            "size": "lớn",
+            "giá": 65
+        },
+        {
+            "tên": "Trà Xanh Đậu Đỏ",
+            "loại": "Trà",
+            "size": "nhỏ",
+            "giá": 45
+        },
+        {
+            "tên": "Trà Xanh Đậu Đỏ",
+            "loại": "Trà",
+            "size": "vừa",
+            "giá": 55
+        },
+        {
+            "tên": "Trà Xanh Đậu Đỏ",
+            "loại": "Trà",
+            "size": "lớn",
+            "giá": 65
+        },
+        {
+            "tên": "Freeze Trà Xanh",
+            "loại": "freeze",
+            "size": "nhỏ",
+            "giá": 55
+        },
+        {
+            "tên": "Freeze Trà Xanh",
+            "loại": "freeze",
+            "size": "vừa",
+            "giá": 65
+        },
+        {
+            "tên": "Freeze Trà Xanh",
+            "loại": "freeze",
+            "size": "lớn",
+            "giá": 69
+        },
+        {
+            "tên": "Caramel Phin Freeze",
+            "loại": "freeze",
+            "size": "nhỏ",
+            "giá": 55
+        },
+        {
+            "tên": "Caramel Phin Freeze",
+            "loại": "freeze",
+            "size": "vừa",
+            "giá": 65
+        },
+        {
+            "tên": "Caramel Phin Freeze",
+            "loại": "freeze",
+            "size": "lớn",
+            "giá": 69
+        },
+        {
+            "tên": "Cookies & Cream",
+            "loại": "freeze",
+            "size": "nhỏ",
+            "giá": 55
+        },
+        {
+            "tên": "Cookies & Cream",
+            "loại": "freeze",
+            "size": "vừa",
+            "giá": 65
+        },
+        {
+            "tên": "Cookies & Cream",
+            "loại": "freeze",
+            "size": "lớn",
+            "giá": 69
+        },
+        {
+            "tên": "Freeze Sô-cô-la",
+            "loại": "freeze",
+            "size": "nhỏ",
+            "giá": 55
+        },
+        {
+            "tên": "Freeze Sô-cô-la",
+            "loại": "freeze",
+            "size": "vừa",
+            "giá": 65
+        },
+        {
+            "tên": "Freeze Sô-cô-la",
+            "loại": "freeze",
+            "size": "lớn",
+            "giá": 69
+        },
+        {
+            "tên": "Classic Phin Freeze",
+            "loại": "freeze",
+            "size": "nhỏ",
+            "giá": 55
+        },
+        {
+            "tên": "Classic Phin Freeze",
+            "loại": "freeze",
+            "size": "vừa",
+            "giá": 65
+        },
+        {
+            "tên": "Classic Phin Freeze",
+            "loại": "freeze",
+            "size": "lớn",
+            "giá": 69
+        },
+        {
+            "tên": "Bánh Chuối",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 29
+        },
+        {
+            "tên": "Phô Mai Chanh Dây",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 29
+        },
+        {
+            "tên": "Su Kem",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 19
+        },
+        {
+            "tên": "Tiramisu",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 35
+        },
+        {
+            "tên": "Mousse Dâu",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 30
+        },
+        {
+            "tên": "Mousse Cacao",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 30
+        },
+        {
+            "tên": "Phô Mai Trà Xanh",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 35
+        },
+        {
+            "tên": "Phô Mai Caramel",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 35
+        },
+        {
+            "tên": "Sô-cô-la Highlands",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 35
+        },
+        {
+            "tên": "Sữa Chua Phô Mai",
+            "loại": "Bánh ngọt",
+            "size": "một size",
+            "giá": 39
+        },
+        {
+            "tên": "Bánh mì que Patê",
+            "loại": "Bánh mì que",
+            "size": "một size",
+            "giá": 19
+        },
+        {
+            "tên": "Bánh mì que Gà Phô Mai",
+            "loại": "Bánh mì que",
+            "size": "một size",
+            "giá": 19
+        },
+        {
+            "tên": "Bánh mì que Bò Xốt Phô Mai",
+            "loại": "Bánh mì que",
+            "size": "một size",
+            "giá": 25
+        },
+        {
+            "tên": "Hứng Khởi",
+            "mô tả": "(Phin Sữa Đá + Bánh Mì Que)",
+            "loại": "combo",
+            "size": "nhỏ",
+            "giá": 39
+        },
+        {
+            "tên": "Hứng Khởi",
+            "mô tả": "(Phin Sữa Đá + Bánh Mì Que)",
+            "loại": "combo",
+            "size": "vừa",
+            "giá": 47
+        },
+        {
+            "tên": "Hứng Khởi",
+            "mô tả": "(Phin Sữa Đá + Bánh Mì Que)",
+            "loại": "combo",
+            "size": "lớn",
+            "giá": 49
+        },
+        {
+            "tên": "Chuyện Trò",
+            "mô tả": "(Trà + Bánh Ngọt)",
+            "loại": "combo",
+            "size": "nhỏ",
+            "giá": 69
+        },
+        {
+            "tên": "Chuyện Trò",
+            "mô tả": "(Trà + Bánh Ngọt)",
+            "loại": "combo",
+            "size": "vừa",
+            "giá": 75
+        },
+        {
+            "tên": "Chuyện Trò",
+            "mô tả": "(Trà + Bánh Ngọt)",
+            "loại": "combo",
+            "size": "lớn",
+            "giá": 79
+        }
+    ]
+}

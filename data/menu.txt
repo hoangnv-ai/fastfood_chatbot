@@ -1,0 +1,47 @@
+⭐ BẢNG GIÁ HIGHLANDS COFFEE
+Đơn vị tính: 1.000 VNĐ
+1. CÀ PHÊ PHIN
+Món	Size_Nhỏ	Size_Vừa	Size_Lớn
+Phin Sữa Đá	29	39	45
+Phin Đen Đá	29	39	45
+Bạc Xỉu	29	39	45
+2. PHINDI
+Món	Size_Nhỏ	Size_Vừa	Size_Lớn
+PhinDi Hạnh Nhân	45	49	55
+PhinDi Kem Sữa	45	49	55
+PhinDi Choco	45	49	55
+3. TRÀ
+Món	Size_Nhỏ	Size_Vừa	Size_Lớn
+Trà Sen Vàng	45	55	65
+Trà Thạch Đào	45	55	65
+Trà Thanh Đào	45	55	65
+Trà Thạch Vải	45	55	65
+Trà Xanh Đậu Đỏ	45	55	65
+4. FREEZE
+Món	Size_Nhỏ	Size_Vừa	Size_Lớn
+Freeze Trà Xanh	55	65	69
+Caramel Phin Freeze	55	65	69
+Cookies & Cream	55	65	69
+Freeze Sô-cô-la	55	65	69
+Classic Phin Freeze	55	65	69
+5. BÁNH
+Món	Giá
+Bánh Chuối	29
+Phô Mai Chanh Dây	29
+Su Kem	19
+Tiramisu	35
+Mousse Dâu	30
+Mousse Cacao	30
+Phô Mai Trà Xanh	35
+Phô Mai Caramel	35
+Sô-cô-la Highlands	35
+Sữa Chua Phô Mai	39
+6. BÁNH MÌ QUE
+Món	Giá
+Patê	19
+Gà Phô Mai	19
+Bò Xốt Phô Mai	25
+7. COMBO
+Combo	Size_Nhỏ	Size_Vừa	Size_Lớn
+Hứng Khởi (Phin Sữa Đá + Bánh Mì Que)	39	47	49
+Chuyện Trò (Trà + Bánh Ngọt)	69	75	79
